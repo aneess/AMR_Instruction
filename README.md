@@ -2,9 +2,9 @@
 1. install ubuntu 16.04
 1. install git
 1. Set up ssh for github
-  1. `cd ~/.ssh`
-  1. `ssh-keygen -t rsa -C "your_email@example.com" `
-  1. [source](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html)
+	1. `cd ~/.ssh`
+	1. `ssh-keygen -t rsa -C "your_email@example.com" `
+  	1. [source](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html)
 1. `$ cat ~/.ssh/id_rsa.pub` copy this and paste in github ssh in settings
 1. GIT SETUPS:
 	1. `git config --global user.email "anees.khan@smail.inf.h-brs.de"`
@@ -35,3 +35,6 @@ and follow remaining steps ..............
 ## Assignments:
 
 clone the [amr-ss18](https://github.com/HBRS-AMR/AMR-SS18) repository inside the src folder of your catkin_ws
+
+## Git tutorial 
+https://try.github.io/
