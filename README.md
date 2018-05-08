@@ -36,5 +36,11 @@ and follow remaining steps ..............
 
 clone the [amr-ss18](https://github.com/HBRS-AMR/AMR-SS18) repository inside the src folder of your catkin_ws
 
+## Git commands
+1. `git status`
+1. `git add <file file>`
+1. `git commit -m "message"`
+1. `git push <remote_name> <branch_name>`>>> pushing local changes
+1. `git pull <remote_name> <branch_name>`>>> pulling remote changes
 ## Git tutorial 
 https://try.github.io/
